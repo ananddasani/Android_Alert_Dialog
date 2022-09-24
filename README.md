@@ -1,6 +1,8 @@
 # Android_Alert_Dialog
 Creating An Alert Dialog for Exiting the app (Exit Confirmation)
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -67,6 +69,6 @@ Creating An Alert Dialog for Exiting the app (Exit Confirmation)
 
 # App Highlight
 
-<img src="app_images/Alert Dialog Default Code.png" width="1000" /><br>
+![Alert Dialog Default App](https://user-images.githubusercontent.com/74413402/192093129-22e493af-24fd-489b-bf5b-c97a98e4c101.png)
+![Alert Dialog Default Code](https://user-images.githubusercontent.com/74413402/192093136-974a1a21-64fc-41e9-86b0-b0436c832033.png)
 
-<img src="app_images/Alert Dialog Default App.png" width="300" /><br>
